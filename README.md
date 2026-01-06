@@ -53,7 +53,7 @@ This project acts like a **weather forecast for public safety**—using historic
 
 ---
 
-### 🎉 Weekend Risk
+### 📈 Weekend Risk
 - **Friday**: Vehicle burglaries peak
 - **Saturday**: Assaults and vandalism increase
 

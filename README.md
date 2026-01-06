@@ -144,12 +144,7 @@ Based on insights:
 - Improved resource efficiency
 
 ---
+Made with ❤️ and Python | © 2025 [Rohini Patturaja]
 
-## 🚀 How to Run the Project
-
-```bash
-git clone https://github.com/yourusername/LA-Crime-Analysis.git
-cd LA-Crime-Analysis
-pip install -r requirements.txt
-python Crime_dashboard_app.py
+⬆ Back to Top
 

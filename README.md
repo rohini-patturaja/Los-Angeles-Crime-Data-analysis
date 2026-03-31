@@ -125,7 +125,11 @@ Designed for **decision-makers**, not just analysts.
 - Engineered time-based features
 
 **Result**: >95% complete, high-quality dataset.
+---
 
+## 📊 Tableau Dashboard
+
+🔗 [View Interactive Dashboard]([https://public.tableau.com/app/profile/rohini.patturaja/viz/LACrimeAnalysis_17749157248070/LACrimeAnalysisduring2020-2025])
 ---
 
 ## 🎯 Strategic Recommendations

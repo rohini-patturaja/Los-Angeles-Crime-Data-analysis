@@ -7,7 +7,7 @@ An interactive data analytics and visualization dashboard that transforms raw LA
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project acts like a **weather forecast for public safety**—using historical crime data to anticipate high-risk periods and locations so resources can be deployed proactively rather than reactively.
 
@@ -19,7 +19,7 @@ This project acts like a **weather forecast for public safety**—using historic
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |--------|------|
@@ -31,35 +31,35 @@ This project acts like a **weather forecast for public safety**—using historic
 
 ---
 
-## 🎯 Key Insights
+##  Key Insights
 
-### 🕛 The Noon Paradox
+###  The Noon Paradox
 - **Peak crime hour**: 12:00 PM (not midnight)
 - Crimes align with peak human activity and mobility
 
 ---
 
-### 📈 Post-COVID Crime Surge
+###  Post-COVID Crime Surge
 - Crime increased as lockdowns ended
 - **Peak**: 2022 (Central LA)
 - **43.4% decrease** from 2023 to 2024 (partial-year data)
 
 ---
 
-### ☀️ Seasonal Crime Patterns
+###  Seasonal Crime Patterns
 - Crime rises in **spring and summer**
 - **August** peak
 - **December** spike in vehicle burglaries
 
 ---
 
-### 📈 Weekend Risk
+###  Weekend Risk
 - **Friday**: Vehicle burglaries peak
 - **Saturday**: Assaults and vandalism increase
 
 ---
 
-### 👥 Victim Demographics
+###  Victim Demographics
 - **Most affected age group**: 18–29
 - **Gender breakdown**:
   - Male: 55%
@@ -67,19 +67,19 @@ This project acts like a **weather forecast for public safety**—using historic
 
 ---
 
-### 🚗 Vehicle Crime Dominance
+###  Vehicle Crime Dominance
 - Over **64 vehicle-related crimes per day**
 - Vehicle burglary is the **2nd most common crime**
 
 ---
 
-### 💻 Digital Crime Rise
+###  Digital Crime Rise
 - Identity theft ranks among the **top 3 crimes**
 - Reflects shift toward cyber-enabled offenses
 
 ---
 
-### 🗺️ Crime Hotspots
+###  Crime Hotspots
 **High Density Areas**
 - Downtown LA
 - Hollywood
@@ -91,7 +91,7 @@ This project acts like a **weather forecast for public safety**—using historic
 
 ---
 
-## 🔮 Predictive Modeling
+##  Predictive Modeling
 
 ### 12-Month Crime Forecast
 Using **Facebook Prophet**, the model predicts:
@@ -104,7 +104,7 @@ Using **Facebook Prophet**, the model predicts:
 ---
 
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 The interactive dashboard enables users to:
 - Filter by year and region
@@ -117,7 +117,7 @@ Designed for **decision-makers**, not just analysts.
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 - Removed duplicates and invalid records
 - Standardized demographic fields
@@ -127,12 +127,13 @@ Designed for **decision-makers**, not just analysts.
 **Result**: >95% complete, high-quality dataset.
 ---
 
-## 📊 Tableau Dashboard
+##  Tableau Dashboard
 
-🔗 [View Interactive Dashboard]([https://public.tableau.com/app/profile/rohini.patturaja/viz/LACrimeAnalysis_17749157248070/LACrimeAnalysisduring2020-2025])
+🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/rohini.patturaja/viz/LACrimeAnalysis_17749157248070/LACrimeAnalysisduring2020-2025)
+
 ---
 
-## 🎯 Strategic Recommendations
+##  Strategic Recommendations
 
 Based on insights:
 - Reallocate patrols to midday hours
